@@ -1,0 +1,12 @@
+C:\Users\Sagar6903\Desktop\CS 6200\VerticalSearch\VerticalSearch\bin\VerticalSearch.dll.config
+C:\Users\Sagar6903\Desktop\CS 6200\VerticalSearch\VerticalSearch\bin\VerticalSearch.dll
+C:\Users\Sagar6903\Desktop\CS 6200\VerticalSearch\VerticalSearch\bin\VerticalSearch.pdb
+C:\Users\Sagar6903\Desktop\CS 6200\VerticalSearch\VerticalSearch\obj\Debug\VerticalSearch.dll
+C:\Users\Sagar6903\Desktop\CS 6200\VerticalSearch\VerticalSearch\obj\Debug\VerticalSearch.pdb
+C:\Users\Sagar6903\Desktop\CS 6200\VerticalSearch\VerticalSearch\obj\Debug\VerticalSearch.csprojResolveAssemblyReference.cache
+C:\Users\Kushagra\Downloads\VerticalSearch\VerticalSearch\VerticalSearch\bin\VerticalSearch.dll.config
+C:\Users\Kushagra\Downloads\VerticalSearch\VerticalSearch\VerticalSearch\bin\VerticalSearch.dll
+C:\Users\Kushagra\Downloads\VerticalSearch\VerticalSearch\VerticalSearch\bin\VerticalSearch.pdb
+C:\Users\Kushagra\Downloads\VerticalSearch\VerticalSearch\VerticalSearch\obj\Debug\VerticalSearch.csprojResolveAssemblyReference.cache
+C:\Users\Kushagra\Downloads\VerticalSearch\VerticalSearch\VerticalSearch\obj\Debug\VerticalSearch.dll
+C:\Users\Kushagra\Downloads\VerticalSearch\VerticalSearch\VerticalSearch\obj\Debug\VerticalSearch.pdb
